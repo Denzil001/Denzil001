@@ -15,6 +15,4 @@
 
 <p>&nbsp;<img align="right" style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=denzil001&show_icons=true&locale=en" alt="denzil001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denzil001&" alt="denzil001" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denzil001&show_icons=true&locale=en&layout=compact" alt="denzil001" /></p>
