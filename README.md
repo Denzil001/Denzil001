@@ -8,6 +8,6 @@
 
 - 🌱 I’m currently learning **Neural Network and Machine learning**
 
-<p><a>  </a></p>
+<div style="height: 1em; width: 100%;"></div>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denzil001&show_icons=true&locale=en&layout=compact" alt="denzil001" /></p>
