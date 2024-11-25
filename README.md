@@ -21,7 +21,9 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
 </p>
-- 🌱 I’m currently learning **Neural Network and Machine learning**
+
+
+<h4> - 🌱 I’m currently learning **Neural Network and Machine learning**</h4>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denzil001&show_icons=true&locale=en&layout=compact" alt="denzil001" /></p>
