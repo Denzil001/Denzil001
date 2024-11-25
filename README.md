@@ -23,7 +23,7 @@
 </p>
 
 
-<h4 margin="25px"> - 🌱 I’m currently learning **Neural Network and Machine learning**</h4>
+<h4> - 🌱 I’m currently learning **Neural Network and Machine learning**</h4>
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denzil001&show_icons=true&locale=en&layout=compact" alt="denzil001" /></p>
