@@ -19,10 +19,4 @@
   </a>
 </p>
 
-
-<h4> ▶️ I’m currently tryin to understand **AI Models**🤖</h4>
-
-
-<h4> ▶️ Also trying to figure out how to make an 🧚‍♂️OS based on Ububtu..👁️👄👁️</h4>
-
 <!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=denzil001&show_icons=true&locale=en&layout=compact" alt="denzil001" /></p>-->
